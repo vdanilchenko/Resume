@@ -1,0 +1,134 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<title>Victor Danilchenko's resume</title>
+<link rel="stylesheet" href="resume.css" type="text/css">
+</head>
+<body>
+<table border="0" cellpadding="3" cellspacing="0">
+<tbody><tr><td colspan="3" style="padding-bottom: 15px;">
+    <div class="address">4 Willimansett St.<br>
+                         South Hadley, MA 01075<br>
+                         413-534-0919<br>
+			 <a href="mailto:victor@danilchenko.net">victor@danilchenko.net</a><br>
+    </div>
+    <div class="name">Victor Danilchenko</div>
+    <div align="center">(<a href="http://www.danilchenko.net/Resume.doc">DOC</a>) (<a href="http://www.danilchenko.net/Resume.pdf">PDF</a>)</div>
+</td></tr>
+
+<tr><th>Objective:</th>
+    <td class="content" colspan="2">Technical management position where my
+    diverse background and experience will add value to the operation.
+    </td>
+</tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th>Precis:</th>
+    <td class="content" colspan="2">I am a software engineer by training, with a good deal of both
+    theoretical and practical knowledge. I am extremely self-motivated, capable of carrying a task
+    from conception through realization and support. I have experience leading technical development
+    of complex web and IT products both working as a part of a team and as an individual contributor.
+    Possessing proficiency with a broad array of environments and technologies, I can leverage my
+    excellent problem-solving and communications skills towards addressing a wide variety of problems,
+    and can readily translate back and forth between technical requirements and non-technical user needs.
+    </td>
+</tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th>Software Technologies:</th>
+    <td class="content" colspan="2">
+    <dl><dt>APIs and Toolkits:</dt>
+        <dd class="extramargin">Ajax, CGI, mod_perl, Mason, LAMP, Flash, Cocoa, Win32, Xlib, Tk</dd>
+    <dt>Programming Languages:</dt>
+        <dd class="extramargin">Perl, PHP, HTML, JavaScript, ActionScript2, C++, Objective-C, C,
+            Lisp, ML, Pascal, Fortran, Basic, Assembler (PC), Bourne Shell, C Shell, JCL</dd>
+    <dt>Database Technologies:</dt>
+        <dd class="extramargin">SQL (MySQL and PostgreSQL), Perl/DBI, Dbase IV, POET</dd>
+    <dt>Operating Systems:</dt>
+        <dd>Windows 2003/XP/Vista/7,  MacOS9, MacOS/X, Linux, Solaris,
+            Digital Unix, Ultrix, AIX, HP-UX</dd></dl>
+    </td>
+</tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th rowspan="5">Professional Experience:</th>
+    <td class="content">
+    <div class="joblocation">AskOnline Inc., MA</div>
+    <b>Chief Technical Officer</b>
+    <ul class="functionlist">
+        <li>Led development effort for Software-as-a-Service solution that scaled to over 300,000 users with a highly efficient infrastructure backend</li>
+        <li>Was lead evaluator of third party systems, integrated several into the SaaS platform</li>
+        <li>Oversaw platform integration with the clients' IT infrastructure (ADS, LDAP, SSO, etc.)</li>
+        <li>Deployed the sales support infrastructure, oversaw its integration with third-party analytics services</li>
+        <li>Managed customer support for hundreds of clients, achieving 99.99% uptime</li>
+        <li>Performed product evangelism and outreach, attending multiple conferences</li>
+    </ul></td></td>
+    <td class="period">2007-present</td></tr>
+
+    <tr><td class="content">
+    <div class="joblocation">AskOnline, Inc., MA</div>
+    <b>Senior Software Engineer</b>
+    <ul class="functionlist">
+        <li>Developed the SaaS application in the LAMP framework</li>
+        <li>Was lead evaluator of third party systems, integrated several into the SaaS platform</li>
+        <li>Integrated with the clients' IT infrastructure (ADS, LDAP, SSO, etc.)</li>
+        <li>Administered the server backend for the SaaS deployment</li>
+    </ul>
+    </li></ul></td>
+    <td class="period">2005-2007</td></tr>
+
+    <tr><td class="content">
+    <div class="joblocation">UMass/Amherst, MA</div>
+    <b>Software Specialist</b>
+    <ul class="functionlist">
+        <li>Performed system administration for over 1800 Windows, Unix, and Mac clients and servers</li>
+        <li>Performed end-user technical and operations support for a 400-member department, 45 research labs and administrative groups</li>
+	<li>Primary in-house software developer for the department support group (5 applications)</li>
+        <li>Implemented and supported various client/server technologies, such as LDAP, NIS, SQL, mail, web, and the SSL infrastructure </li>
+    </ul>
+    </li></ul></td>
+    <td class="period">1997-2005</td></tr>
+
+<tr><td class="content">
+    <div class="joblocation">RBR Lab, UMass/Amherst, MA</div>
+    <b>Research Assistant</b>
+    <ul class="functionlist">
+        <li>Performed AI research at Resource-Bounded Reasoning Laboratory, coauthored and contributed to 3 publications</li>
+        <li>Researched the theoretic aspects of 'anytime' algorithms</li>
+    </ul></td>
+    <td class="period">1996-1998</td></tr>
+
+<tr><td class="content">
+    <div class="joblocation">DRMA Inc., New York, NY</div>
+    <b>Software Engineer</b>
+    <ul class="functionlist">
+        <li>Key member of commercial media-buying software development team</li>
+        <li>Designed user interface and the DB abstraction layer</li>
+        <li>Programmed in Visual C++ under Windows 3.1, 95, NT</li>
+        <li>Provided technical advice for corporate sales</li>
+    </ul></td>
+    <td class="period">1995-1996</td></tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th rowspan="2">Education:</th>
+    <td class="content" colspan="2"><b>Master of Science in Computer Science</b>, University of Massachusetts/Amherst, 2002</td></tr>
+<tr><td class="content" colspan="2"><b>Bachelor of Science in Computer Science</b>, PACE University, 1996 (Summa Cum Laude)</td></tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th>Languages:</th>
+    <td class="content" colspan="2">English, Russian, Ukrainian</td></tr>
+
+<tr class="spacer"><td colspan="3"></td></tr>
+
+<tr><th>References:</th>
+    <td class="content" colspan="2">Available upon request</td></tr>
+
+</tbody></table>
+
+
+
+</body></html>

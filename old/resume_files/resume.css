@@ -1,0 +1,79 @@
+body {
+background: #e0e0ff;
+}
+
+tr.spacer {
+height: 10px;
+}
+
+th {
+background: #c0c0e0;
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+font-size: large;
+}
+
+td.content {
+background: #c0c0e0;
+text-align: left;
+vertical-align: top;
+padding-bottom: 15px;
+padding: auto auto 15px;
+}
+
+td.period {
+background: #c0c0e0;
+text-align: left;
+font-weight: bold;
+vertical-align: top;
+padding-left: 10px;
+padding: auto auto auto 10px;
+}
+
+div.address {
+float: right;
+font-size: small;
+text-align: center;
+}
+
+div.name {
+float: center;
+font-weight: bold;
+font-size: xx-large;
+text-align: center;
+}
+
+div.joblocation {
+float: right;
+}
+
+ul.functionlist {
+margin-top: 5px;
+margin: 5px auto auto;
+}
+
+div.floater {
+float: left;
+}
+
+dt {
+font-weight: bold;
+}
+
+dd.extramargin {
+margin-bottom: 10px;
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:active {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
